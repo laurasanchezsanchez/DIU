@@ -1,7 +1,7 @@
 # DIU22
 Prácticas Diseño Interfaces de Usuario 2021-22 (Tema: Hostels) 
 
-Grupo: DIU1_01AABB.  Curso: 2021/22 
+Grupo: DIU1_LSMR.  Curso: 2021/22 
 Updated: 11/2/2022
 
 Proyecto: 
@@ -15,14 +15,11 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:  Laura Sánchez Sánchez     :octocat:     
+ * :bust_in_silhouette:  Miguel Reyes Martínez     :octocat:
 
 ----- 
 
-
-
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
 
 
 # Proceso de Diseño 

@@ -15,10 +15,16 @@ Como **resultado** tenemos que el hostel elegido tiene puntos importantes mejora
 
 <img src="P1_AnalisisCompetitivo.PNG">
 
-- Desk research: Análisis Competencia 
-- 2 Personas 
-- 2 User Journey Map  ( 1 por persona)
-- Revisión de Usabilidad 
+
+## Personas 
+La primera persona es una joven estudiante de Historia llamada Mei, la cual pasará cinco días en Granada junto a su pareja. Su principal objetivo es encontrar inspiración para su Trabajo de Fin de Grado.
+<img src="PersonaMei.PNG">
+
+Como segunda persona encontramos a Claudia, una mujer influencer que se dedica a realizar patrocinios con empresas. 
+<img src="PersonaClaudia.PNG">
+
+## 2 User Journey Map  ( 1 por persona)
+## Revisión de Usabilidad 
 
 
 (valoración y conclusiones de esta etapa)

@@ -29,7 +29,9 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+Compararemos el hostel 4uHostel frente a Woohoo Group (Madrid) y Soho (Málaga) y veremos los puntos fuertes y débiles de cada uno, con el fin de sacar una conclusión de la calidad de la página web del hostel asignado. Concluímos que hay puntos mejorables.
+
+
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----

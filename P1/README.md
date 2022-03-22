@@ -45,6 +45,6 @@ Las marcas a las que va a hacerle publicidad en este viaje no le pagan el alojam
 ## Revisión de Usabilidad 
 Enlace al documento [PDF](RevisionUsabilidadLSMR.pdf).
 
-Como resumen podemos destacar que es una página web que cumple con su principal objetivo, realizar una reserva online. No dispone de recursos de ayuda para personas que no tienen conocimientos sobre páginas web. Además está acotada a un público español o inglés, un punto importante en un negocio turístico.
+Como **resumen** podemos destacar que es una página web que cumple con su principal objetivo, realizar una reserva online. No dispone de recursos de ayuda para personas que no tienen conocimientos sobre páginas web. Además está acotada a un público español o inglés, un punto importante en un negocio turístico.
 
-Valoración y conclusiones: Valoramos la página positivamente por su simplicidad y diseño, pero al hacer el estudio de usabilidad, decidimos que hay puntos importantes en los que debe mejorar, destacando el hecho de que existen dos páginas web para el mismo negocio, aparentemente iguales.
+**Valoración y conclusiones:** Valoramos la página positivamente por su simplicidad y diseño, pero al hacer el estudio de usabilidad, decidimos que hay puntos importantes en los que debe mejorar, destacando el hecho de que existen dos páginas web para el mismo negocio, aparentemente iguales.

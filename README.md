@@ -58,7 +58,7 @@ Claudia:
 ----
 - Enlace al documento [PDF](P1/RevisionUsabilidadLSMR.pdf).
 - Valoración final: 76 - Good
-- Comentario sobre la valoración: Es una página web que cumple con su objetivo, pero tiene aspectos a mejorar. Más información en el [resumen](P1/README.md/#revisión-de-usabilidad).
+- Comentario sobre la valoración: Es una página web que cumple con su objetivo, pero tiene aspectos a mejorar. Más información en el [resumen](P1/README.md/##revisión-de-usabilidad).
 
 
 ## Paso 2. UX Design  

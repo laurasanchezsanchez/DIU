@@ -43,6 +43,7 @@ Las marcas a las que va a hacerle publicidad en este viaje no le pagan el alojam
 <img src="JourneyClaudia.PNG">
 
 ## Revisión de Usabilidad 
+Enlace al documento [PDF](RevisionUsabilidadLSMR.pdf).
 
 Como resumen podemos destacar que es una página web que cumple con su principal objetivo, realizar una reserva online. No dispone de recursos de ayuda para personas que no tienen conocimientos sobre páginas web. Además está acotada a un público español o inglés, un punto importante en un negocio turístico.
 

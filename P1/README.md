@@ -17,13 +17,31 @@ Como **resultado** tenemos que el hostel elegido tiene puntos importantes mejora
 
 
 ## Personas 
+
 La primera persona es una joven estudiante de Historia llamada Mei, la cual pasará cinco días en Granada junto a su pareja. Su principal objetivo es encontrar inspiración para su Trabajo de Fin de Grado.
 <img src="PersonaMei.PNG">
 
 Como segunda persona encontramos a Claudia, una mujer influencer que se dedica a realizar patrocinios con empresas. 
 <img src="PersonaClaudia.PNG">
 
-## 2 User Journey Map  ( 1 por persona)
+## User Journey Maps
+
+**Mei**
+
+Mei desea hacer una reserva en un sitio barato para visitar Granada con su pareja y que le sirva como inspiración en tu Trabajo de Fin de Grado. Surgen algunas disputas con su pareja ya que no está tan interesada como ella en ese viaje.
+
+Finalmente encuentra una solución aunque tiene una ventaja frente a su pareja: es estudiante y por ello en algunas visitas tiene descuento.
+
+<img src="JourneyMei.PNG">
+
+**Claudia**
+
+Claudia quiere organizar un viaje a Granada con el fin de crecer en sus redes sociales y ganar dinero haciendo patrocinios a diferentes marcas. Además, realizará quedadas con otros influencers por lo que tendrá que organizarse con ellos. 
+
+Las marcas a las que va a hacerle publicidad en este viaje no le pagan el alojamiento, por lo que sus amigos influencers le recomiendan un hostel que, con suerte, tenía disponibilidad en las fechas que buscaba.
+
+<img src="JourneyClaudia.PNG">
+
 ## Revisión de Usabilidad 
 
 

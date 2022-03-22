@@ -19,9 +19,9 @@
 
 angular.module("angular", [])
 	.controller("controller", ["$scope", function($scope) { 
-		$scope.Grupo_ID ="DIU1.ABCDEF";
+		$scope.Grupo_ID ="DIU1_LSMR";
         $scope.Curso ="2021/22";
-        $scope.Github_ID ="https://github.com/mgea/UX-DIU-Toolkit";
+        $scope.Github_ID ="https://github.com/laurasanchezsanchez/DIU";
         
 		$scope.JourneyIndex = 0;
         
@@ -34,55 +34,55 @@ angular.module("angular", [])
                 /*************************************/
                 
 				Id: 0,
-				Name: "Pedro",
-                Photo: "man.png",
+				Name: "Mei",
+                Photo: "FotoMei.JPG",
     
                 /*** PASO #1: INSPIRACION ***/ 
-                goal1: "quiere preparar un viaje con sus amigos en Semana Santa",
-                touch1: "agenda",
-                feel1: "4",
-                con1: "ver cuantos días puede tener libres para organizar lugar de viaje ",
-                ima1: "cartoon-planning.png",
+                goal1: "Quiere hacer un viaje con su pareja y aprovechar para encontrar inspiración para su TFG.",
+                touch1: "Calendario",
+                feel1: "5",
+                con1: "Debe adecuar las fechas para que coincida con las vacaciones de su pareja y no sea periodo de clases.",
+                ima1: "cartoon-shaking.png",
 				
                 /*** PASO #2: DECICION ***/ 
-                goal2: "Busca en internet ofertas para esas fechas",
-                touch2: "Movil",
+                goal2: "Busca en internet hosteles económicos en Granada",
+                touch2: "Ordenador",
                 feel2: "2",
-                con2: "hay demasiada información y pierde mucho tiempo, no hay precios 'baratos'",
+                con2: "Los hosteles que encuentran no se adecúan al presupuesto fijado.",
                 ima2: "cartoon-PCangry.png",
                 
                 /*** PASO #3: ACTUA ***/ 
                 
-                goal3: "Decide buscar un alojamiento rural  en plasencia, donde hay procesiones y parece que hará buen tiempo",
-                touch3: "móvil (el tiempo)",
+                goal3: "Decide buscar primero lugares turísticos/históricos a visitar en las fechas planeadas",
+                touch3: "Ordenador",
                 feel3: "3",
-                con3: "Está preocupado por el tiempo y el desplazamiento (coche y aparcamiento)",
-                ima3: "cartoon-phone.png",
+                con3: "Le preocupa que debido a su lesión de tobillo deba desplazarse a pie de un lugar a otro.",
+                ima3: "cartoon-looking.png",
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
-                goal4: "Los amigos le recomiendan una página para escoger alojamientos",
-                touch4: "ordenador",
-                feel4: "4",
-                con4: "Buscar opciones en el lugar que había seleccionado, viendo precios y distancias, tiene que ver si hay aparcamiento fácil",
-                ima4: "cartoon-PCtyping.png",
+                goal4: "Decide proponer a su pareja buscar el alojamiento juntos",
+                touch4: "Pareja",
+                feel4: "2",
+                con4: "Su pareja no muestra mucho interés en el viaje.",
+                ima4: "cartoon-phone-sitting.png",
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
-                goal5: "Se encuentra 3 opciones que encajan en sus preferencias",
-                touch5: "móvil (whatsapp)",
-                feel5: "2",
-                con5: "Llama a sus amigos (whatsapp no responen) para ver cual es su preferencia, tienen que reservar rápido por los precios",
-                ima5: "cartoon-phoning.png",
+                goal5: "Encuentra el hostel 4uHostel con reserva disponible en las fechas que busca.",
+                touch5: "Ordenador",
+                feel5: "4",
+                con5: "Su pareja aún no le ha dado el dinero y debe realizar la reserva hoy debido a la baja disponibilidad.",
+                ima5: "cartoon-PCsurprised.png",
                 
                 
                 /*** PASO #6: CONCLUSION ***/ 
                 
-                goal6: "Consigue reservar, otro año se encarga otro!",
-                touch6: "ordenador",
-                feel6: "3",
-                con6: "algunos amigos no confirmaron por lo que tuvo que seleccionar reserva con posibilidad de cancelación",
-                ima6: "cartoon-resting.png",
+                goal6: "Reserva el hostel para 5 días y contrata las visitas a los lugares deseados",
+                touch6: "Ordenador",
+                feel6: "5",
+                con6: "Una de las visitas es más barata para estudiantes, por lo que su pareja deberá pagar un poco más.",
+                ima6: "cartoon-PCtyping.png",
                 
 			},
 			{	
@@ -92,55 +92,55 @@ angular.module("angular", [])
                 /*************************************/
                 
 				Id: 1,
-				Name: "Monica Suarez",
-                Photo: "woman.png",
+				Name: "Claudia Rosales",
+                Photo: "FotoClaudia.jpg",
                 
 				 /*** PASO #1: INSPIRACION ***/ 
-                goal1: "Quiere preparar un viaje con su familia para Verano, tiene sólo 15 dias libres",
-                touch1: "agenda",
+                goal1: "Desea realizar un viaje a Granada para publicar contenido en sus RRSS además de realizar patrocinios.",
+                touch1: "Agenda/Calendario",
                 feel1: "5",
-                con1: "Quiere ir a un pais exotico pero que tenga atracciones para niños pequeños",
-                ima1: "cartoon-going.png",
+                con1: "Debe ponerse en contacto con las empresas de Granada para fijar fechas.",
+                ima1: "cartoon-writting2.png",
                 
                 /*** PASO #2: DECICION ***/ 
-                goal2: "Ir a una agencia de viajes, y decirle sus preferencias y planes",
-                touch2: "Servicio (agencia)",
+                goal2: "Decide contactar con otros influencers para organizar quedadas.",
+                touch2: "Movil (RRSS)",
                 feel2: "4",
-                con2: "Tiene que desplazarse a agencia, explica su intenciones, le llamaran porque no hay nada interesante",
-                ima2: "cartoon-teamthinking.png",
+                con2: "Ponerse de acuerdo con los influencers y las marcas es frustrante.",
+                ima2: "cartoon-phoning.png",
                 
                 /*** PASO #3: ACTUA ***/ 
                 
-                goal3: "Le llaman a los pocos días con un viaje que no le convence",
+                goal3: "Las marcas le confirman los días y planes organizados.",
                 touch3: "Móvil (llamada)",
                 feel3: "2",
-                con3: "Piensa que ha perdido el tiempo",
+                con3: "Le informan de que el alojamiento no está incluido en el contrato.",
                 ima3: "cartoon-phoningangry.png",
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
-                goal4: "Busca una oferta en hoteles cerca de playa y con parque atracciones",
-                touch4: "Móvil (webapp)",
-                feel4: "2",
-                con4: "No hay mucha información del alojamiento ni de lo que hay alrededor, aunque el precio está bien, va por la calle por lo que está incómoda",
-                ima4: "cartoon-phone-street.png",
+                goal4: "Busca alojamientos económicos en los que hospedarse cerca de sus destinos.",
+                touch4: "Ordenador",
+                feel4: "3",
+                con4: "Los hoteles ofertados en internet son demasiado caros.",
+                ima4: "cartoon-PCangry.png",
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
-                goal5: "Reserva a traves de la aplicación ",
-                touch5: "Móvil (webapp)",
-                feel5: "3",
-                con5: "Le pide muchos datos y le resulta incómodo completar formulario",
-                ima5: "cartoon-phone-sitting.png",
+                goal5: "Sus amigos influencers le recomiendan un hostel situado en el centro.",
+                touch5: "Móvil (RRSS)",
+                feel5: "4",
+                con5: "No está segura de que sea una buena opción, ya que no es capaz de situarse bien en el mapa y desconocía lo que era un hostel.",
+                ima5: "cartoon-why.png",
 
                 
                 /*** PASO #6: CONCLUSION ***/ 
                 
-                goal6: "Consiguie reservar para vacaciones pero no era lo que tenía en mente",
-                touch6: "Ordenador (reserva OK)",
-                feel6: "2",
-                con6: "Tendrá que buscar más información del lugar para ver que actividades ofrece y donde aparacar!",
-                ima6: "cartoon-PChard.png",
+                goal6: "Realiza la reserva on-line en las fechas previstas.",
+                touch6: "Ordenador (reserva on-line)",
+                feel6: "5",
+                con6: "Deberá buscar información acerca de cómo llegar desde la estación de tren.",
+                ima6: "cartoon-happy.png",
                 
                 
                 

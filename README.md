@@ -36,13 +36,23 @@ Compararemos el hostel 4uHostel frente a Woohoo Group (Madrid) y Soho (Málaga) 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+
+Las personas seleccionadas son dos chicas jóvenes que desean encontrar un alojamiento barato por distintos motivos.
+
+Mei:
+<img src="P1/FotoMei.PNG">
+Claudia:
+<img src="P1/FotoClaudia.PNG">
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
+Hemos escogido estas experiencias ya que consideramos que son bastante habituales entre la gente joven, especialmente la de Mei.
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+Mei:
+<img src="P1/JourneyMei.PNG">
+Claudia:
+<img src="P1/JourneyClaudia.PNG">
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----

@@ -40,9 +40,9 @@ Compararemos el hostel 4uHostel frente a Woohoo Group (Madrid) y Soho (Málaga) 
 Las personas seleccionadas son dos chicas jóvenes que desean encontrar un alojamiento barato por distintos motivos.
 
 Mei:
-<img src="P1/FotoMei.JPG">
+<img src="P1/PersonaMei.PNG">
 Claudia:
-<img src="P1/FotoClaudia.JPG">
+<img src="P1/PersonaClaudia.PNG">
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----

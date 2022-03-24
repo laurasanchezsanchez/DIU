@@ -36,7 +36,7 @@ Soho
 La primera persona es una joven estudiante de Historia llamada **Mei**, nacida en España pero con ascendencia china, la cual pasará cinco días en Granada junto a su pareja. Su principal objetivo es encontrar inspiración para su Trabajo de Fin de Grado.
 <img src="PersonaMei.PNG">
 
-Como segunda persona encontramos a Claudia, una mujer influencer que se dedica a realizar patrocinios con empresas. 
+Como segunda persona encontramos a **Claudia**, una mujer influencer que se dedica a realizar patrocinios con empresas. 
 <img src="PersonaClaudia.PNG">
 
 ## User Journey Maps

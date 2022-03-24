@@ -29,7 +29,7 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
-Compararemos el hostel 4uHostel frente a Woohoo Group (Madrid) y Soho (Málaga) y veremos los puntos fuertes y débiles de cada uno, con el fin de sacar una conclusión de la calidad de la página web del hostel asignado. Concluímos que hay puntos mejorables.
+Compararemos el hostel 4uHostel (https://www.4uhostel.com/) frente a Woohoo Group (https://www.woohoo-group.com/es/) y Soho (http://www.feelhostels.com/hostel_soho.php) y veremos los puntos fuertes y débiles de cada uno, con el fin de sacar una conclusión de la calidad de la página web del hostel asignado. Hemos elegido estos dos hosteles para poder comparar 4uHostel con uno muy bueno y con otro muy mejorable.
 
 
 
@@ -47,18 +47,18 @@ Claudia:
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
-Hemos escogido estas experiencias ya que consideramos que son bastante habituales entre la gente joven, especialmente la de Mei.
+Hemos escogido estas experiencias ya que siguen algunos de los pasos que seguiríamos nosotros y nuestros amigos como gente joven al reservar un alojamiento en una ciudad que desconocemos.
 
-Mei:
+Mei (estudiante de historia):
 <img src="P1/JourneyMei.PNG">
-Claudia:
+Claudia (influencer):
 <img src="P1/JourneyClaudia.PNG">
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
 - Enlace al documento [PDF](P1/RevisionUsabilidadLSMR.pdf).
-- Valoración final: 76 - Good
-- Comentario sobre la valoración: Es una página web que cumple con su objetivo, pero tiene aspectos a mejorar. Más información en el [resumen](https://github.com/laurasanchezsanchez/DIU/blob/master/P1/README.md/#revisi%C3%B3n-de-usabilidad).
+- Valoración final: 51 - Moderate
+- Comentario sobre la valoración: Es una página web que deja que desear, sobre todo en la cantidad de información que se detalla.
 
 
 ## Paso 2. UX Design  

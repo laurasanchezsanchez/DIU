@@ -96,7 +96,6 @@ Las discotecas de la zona pueden publicar sus eventos y se proporcionarán descu
 
 
 
-![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
 La siguiente imagen describe la navegación que el usuario podrá realizar dentro de la plataforma.
@@ -123,7 +122,6 @@ Término | Significado
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
 Para ver los bocetos, ver dentro de la carpeta "P2".
 En todas las pestañas el cliente ve dónde se sitúa en cada momento y tiene la posibilidad de ir hacia atrás en cualquier paso.
 

@@ -79,10 +79,21 @@ Basado en la información de los usuarios de la práctica 1, hemos elaborado el 
 Las discotecas de la zona pueden publicar sus eventos y se proporcionarán descuentos.
 
 <img src="P2/PropuestaValor.png">
-![Método UX](img/Sitemap.png) 2.b Tasks analysis 
+![Método UX](img/Sitemap.png) 
+
+
+2.b Tasks analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+| | Jóvenes | Parejas | Amigos | Adultos |
+| -- | -- | -- | -- | -- |
+| Hacer y ver valoraciones | H | M | H | L |
+| Reservar una entrada en un negocio | H | H | H | H |
+| Realizar pagos a través de la app | H | H | H | L |
+| Buscar tipo de establecimiento | M | H | M | M |
+| Consultar las personas apuntadas al evento | H | H | H | L |
+| Chatear con las personas apuntadas al evento | H | L | H | M |
+
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 

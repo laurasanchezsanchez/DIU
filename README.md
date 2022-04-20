@@ -76,6 +76,9 @@ Basado en la información de los usuarios de la práctica 1, hemos elaborado el 
 ----
 >>> Propuesta de valor 
 
+Las discotecas de la zona pueden publicar sus eventos y se proporcionarán descuentos.
+
+<img src="P2/PropuestaValor.png">
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 

@@ -64,22 +64,11 @@ Claudia (influencer):
 ## Paso 2. UX Design  
 
 
-![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
+![Método UX](img/feedback-capture-grid.png) 2.a Mapa de empatía
 ----
-
-
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-    
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
+Mapa de empatía.
+Basado en la información de los usuarios de la práctica 1, hemos elaborado el siguiente mapa de empatía:
+<img src="P2/MapaEmpatia.png">
 
 
 

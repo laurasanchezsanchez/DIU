@@ -2,6 +2,7 @@
 
 ### Ideación 
 * Mapa de empatía
+Basado en la información de los usuarios de la práctica 1, hemos elaborado el siguiente mapa de empatía:
 <img src="MapaEmpatia.png">
 
 ### PROPUESTA DE VALOR

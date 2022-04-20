@@ -124,7 +124,8 @@ Término | Significado
 -----
 
 >>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
-
+Para ver los bocetos, ver dentro de la carpeta "P2".
+En todas las pestañas el cliente ve dónde se sitúa en cada momento y tiene la posibilidad de ir hacia atrás en cualquier paso.
 
 ## Paso 3. Mi UX-Case Study (diseño)
 

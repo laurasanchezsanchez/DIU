@@ -44,13 +44,31 @@ A continuación podemos ver la User Task Matrix creada a partir de los usuarios 
 ### ARQUITECTURA DE INFORMACIÓN
 
 * Sitemap 
+
+La siguiente imagen describe la navegación que el usuario podrá realizar dentro de la plataforma.
+No existe una vista de login ya que el proyecto a desarrollar es un microsite dentro de la plataforma existente de 4uHostel.
 <img src="Sitemap.png">
 
 * Labelling 
+En la siguiente tabla se detalla la información contenida en cada una de las secciones que contiene el proyecto, indicando la finalidad de ellas.
+
+Término | Significado     
+| ------------- | -------
+  Temáticas  | Sección para ver las temáticas de todos los eventos publicados por los negocios.
+  Establecimientos  | Sección para ver todos los establecimientos que tienen eventos publicados en la web.
+  Informacion  | Sección para consultar el fin de este proyecto y las políticas de privacidad.
+  Comprar entrada  | Sección donde el cliente puede comprar una entrada de un evento publicado.
+  Chatear con otros clientes  | Sección donde el cliente, una vez comprada la entrada del evento, puede chatear con los demás asistentes.
+  Consultar asistentes  | Sección donde el cliente, una vez comprada la entrada del evento, puede consultar los demás asistentes.
+  Añadir valoracion  | Sección donde el cliente, una vez pasado el evento, puede añadir una valoración de su experiencia.
+  Ver valoraciones  | Sección donde el cliente puede ver las valoraciones pasadas del establecimiento/evento.
 
 
 ### Prototipo Lo-FI Wireframe 
+No proponemos sección de Login ya que nuestro proyecto está incrustado en la plataforma de 4uHostel.
+Comenzamos en la pantalla de Inicio y podemos navegar según lo descrito en el sitemap.
+
 
 
 ### Conclusiones  
-(incluye valoración de esta etapa)
+Concluímos que esta etapa ha servido para definir el producto que queremos desarrollar y es muy importante a la hora de planificar un proyecto, ya que esta es la base donde se apoyarán el resto de etapas. En esta etapa nos ponemos en la situación del cliente en todo momento y diseñamos el producto según sus necesidades.

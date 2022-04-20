@@ -98,10 +98,14 @@ Las discotecas de la zona pueden publicar sus eventos y se proporcionarán descu
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
+
+La siguiente imagen describe la navegación que el usuario podrá realizar dentro de la plataforma.
+
 <img src="P2/Sitemap.png">
 
 
->>> Identificar términos para diálogo con usuario  
+En la siguiente tabla se detalla la información contenida en cada una de las secciones que contiene el proyecto, indicando la finalidad de ellas.
+
 
 Término | Significado     
 | ------------- | -------

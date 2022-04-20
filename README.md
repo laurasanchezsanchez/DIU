@@ -98,13 +98,22 @@ Las discotecas de la zona pueden publicar sus eventos y se proporcionarán descu
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
+<img src="P2/Sitemap.png">
 
 
 >>> Identificar términos para diálogo con usuario  
 
 Término | Significado     
 | ------------- | -------
-  Login¿?  | acceder a plataforma
+  Temáticas  | Sección para ver las temáticas de todos los eventos publicados por los negocios.
+  Establecimientos  | Sección para ver todos los establecimientos que tienen eventos publicados en la web.
+  Informacion  | Sección para consultar el fin de este proyecto y las políticas de privacidad.
+  Comprar entrada  | Sección donde el cliente puede comprar una entrada de un evento publicado.
+  Chatear con otros clientes  | Sección donde el cliente, una vez comprada la entrada del evento, puede chatear con los demás asistentes.
+  Consultar asistentes  | Sección donde el cliente, una vez comprada la entrada del evento, puede consultar los demás asistentes.
+  Añadir valoracion  | Sección donde el cliente, una vez pasado el evento, puede añadir una valoración de su experiencia.
+  Ver valoraciones  | Sección donde el cliente puede ver las valoraciones pasadas del establecimiento/evento.
+  
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes

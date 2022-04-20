@@ -44,6 +44,8 @@ A continuación podemos ver la User Task Matrix creada a partir de los usuarios 
 ### ARQUITECTURA DE INFORMACIÓN
 
 * Sitemap 
+<img src="Sitemap.png">
+
 * Labelling 
 
 

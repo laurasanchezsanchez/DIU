@@ -51,16 +51,17 @@ No existe una vista de login ya que el proyecto a desarrollar es un microsite de
 * Labelling 
 En la siguiente tabla se detalla la información contenida en cada una de las secciones que contiene el proyecto, indicando la finalidad de ellas.
 
+
 Término | Significado     
 | ------------- | -------
-  Temáticas  | Sección para ver las temáticas de todos los eventos publicados por los negocios.
-  Establecimientos  | Sección para ver todos los establecimientos que tienen eventos publicados en la web.
+  Principal  | Sección donde se ven todos los eventos a partir de unos filtros aplicados.
   Informacion  | Sección para consultar el fin de este proyecto y las políticas de privacidad.
   Comprar entrada  | Sección donde el cliente puede comprar una entrada de un evento publicado.
   Chatear con otros clientes  | Sección donde el cliente, una vez comprada la entrada del evento, puede chatear con los demás asistentes.
   Consultar asistentes  | Sección donde el cliente, una vez comprada la entrada del evento, puede consultar los demás asistentes.
   Añadir valoracion  | Sección donde el cliente, una vez pasado el evento, puede añadir una valoración de su experiencia.
   Ver valoraciones  | Sección donde el cliente puede ver las valoraciones pasadas del establecimiento/evento.
+  
 
 
 ### Prototipo Lo-FI Wireframe 
@@ -72,14 +73,9 @@ Pantalla principal.
 En ella el cliente puede ver las temáticas de los eventos publicados y, si ya tiene claro el establecimiento que quiere visitar, puede consultarlos directamente.
 Suponemos que en el logotipo se da un breve y conciso resumen de lo que trata este proyecto.
 
-<img src="Tematicas.png">
-Pestaña de temáticas de eventos
-En ella el cliente puede seleccionar la temática que le interesa y se le ofrecerán los eventos relacionados con la misma. 
-Hay una fotografía asociada a cada temática
-
-<img src="Establecimientos.png">
-Pestaña de establecimientos
-En esta pestaña aparecerán los establecimientos que han publicado eventos en 4uHostel con la posibilidad de pinchar en ellos y ver los eventos disponibles.
+<img src="Filtros.png">
+Pantalla principal - filtros.
+En ella el cliente puede filtrar los eventos que quiere consultar según la fecha, establecimientos o tipos de eventos. Realmente es un desplegable pero hemos realizado este boceto en un screen completo para que se visualice correctamente.
 
 <img src="Evento.png">
 Pestaña de un establecimiento seleccionado - evento

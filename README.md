@@ -67,7 +67,7 @@ Claudia (influencer):
 ![Método UX](img/feedback-capture-grid.png) 2.a Mapa de empatía
 ----
 Mapa de empatía.
-Basado en la información de los usuarios de la práctica 1, hemos elaborado el siguiente mapa de empatía:
+Hemos elaborado el siguiente mapa de empatía:
 <img src="P2/MapaEmpatia.png">
 
 
@@ -85,15 +85,14 @@ Las discotecas de la zona pueden publicar sus eventos y se proporcionarán descu
 2.b Tasks analysis 
 -----
 
-| | Jóvenes | Parejas | Amigos | Adultos |
-| -- | -- | -- | -- | -- |
-| Hacer y ver valoraciones | H | M | H | L |
-| Reservar una entrada en un negocio | H | H | H | H |
-| Realizar pagos a través de la app | H | H | H | L |
-| Buscar tipo de establecimiento | M | H | M | M |
-| Consultar las personas apuntadas al evento | H | H | H | L |
-| Chatear con las personas apuntadas al evento | H | L | H | M |
-
+| | Parejas | Grupos | Adultos |
+| -- | -- | -- | -- | 
+| Hacer y ver valoraciones |  M | H | L |
+| Reservar una entrada en un negocio | H | H | H |
+| Realizar pagos a través de la app | H | H | L |
+| Buscar tipo de establecimiento | H | M | M |
+| Consultar las personas apuntadas al evento | H | H | L |
+| Chatear con las personas apuntadas al evento | L | H | M |
 
 
 ----
@@ -108,8 +107,7 @@ En la siguiente tabla se detalla la información contenida en cada una de las se
 
 Término | Significado     
 | ------------- | -------
-  Temáticas  | Sección para ver las temáticas de todos los eventos publicados por los negocios.
-  Establecimientos  | Sección para ver todos los establecimientos que tienen eventos publicados en la web.
+  Principal  | Sección donde se ven todos los eventos a partir de unos filtros aplicados.
   Informacion  | Sección para consultar el fin de este proyecto y las políticas de privacidad.
   Comprar entrada  | Sección donde el cliente puede comprar una entrada de un evento publicado.
   Chatear con otros clientes  | Sección donde el cliente, una vez comprada la entrada del evento, puede chatear con los demás asistentes.

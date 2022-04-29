@@ -29,7 +29,7 @@ Definimos los siguientes perfiles:
 A continuación podemos ver la User Task Matrix creada a partir de los usuarios descritos anteriormente.
 
 | | Parejas | Grupos | Adultos |
-| -- | -- | -- | -- | -- |
+| -- | -- | -- | -- | 
 | Hacer y ver valoraciones |  M | H | L |
 | Reservar una entrada en un negocio | H | H | H |
 | Realizar pagos a través de la app | H | H | L |

@@ -69,7 +69,7 @@ Término | Significado
 No proponemos sección de Login ya que nuestro proyecto está incrustado en la plataforma de 4uHostel.
 Comenzamos en la pantalla de Inicio y podemos navegar según lo descrito en el sitemap.
 
-<img src="Principal.png">
+<img src="Principal.PNG">
 
 Pantalla principal.
 En ella el cliente puede ver las temáticas de los eventos publicados y, si ya tiene claro el establecimiento que quiere visitar, puede consultarlos directamente.

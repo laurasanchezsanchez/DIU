@@ -107,7 +107,7 @@ En la siguiente tabla se detalla la información contenida en cada una de las se
 
 Término | Significado     
 | ------------- | -------
-  Principal  | Sección donde se ven todos los eventos a partir de unos filtros aplicados.
+  Principal  | Sección donde se ven todos los eventos a partir de unos filtros aplicados. En ella se pueden aplicar los filtros deseados.
   Informacion  | Sección para consultar el fin de este proyecto y las políticas de privacidad.
   Comprar entrada  | Sección donde el cliente puede comprar una entrada de un evento publicado.
   Chatear con otros clientes  | Sección donde el cliente, una vez comprada la entrada del evento, puede chatear con los demás asistentes.

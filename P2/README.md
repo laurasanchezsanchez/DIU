@@ -54,13 +54,14 @@ En la siguiente tabla se detalla la información contenida en cada una de las se
 
 Término | Significado     
 | ------------- | -------
-  Principal  | Sección donde se ven todos los eventos a partir de unos filtros aplicados.
+  Principal  | Sección donde se ven todos los eventos a partir de unos filtros aplicados. En ella se pueden aplicar los filtros deseados.
   Informacion  | Sección para consultar el fin de este proyecto y las políticas de privacidad.
   Comprar entrada  | Sección donde el cliente puede comprar una entrada de un evento publicado.
   Chatear con otros clientes  | Sección donde el cliente, una vez comprada la entrada del evento, puede chatear con los demás asistentes.
   Consultar asistentes  | Sección donde el cliente, una vez comprada la entrada del evento, puede consultar los demás asistentes.
   Añadir valoracion  | Sección donde el cliente, una vez pasado el evento, puede añadir una valoración de su experiencia.
   Ver valoraciones  | Sección donde el cliente puede ver las valoraciones pasadas del establecimiento/evento.
+  
   
 
 
@@ -69,6 +70,7 @@ No proponemos sección de Login ya que nuestro proyecto está incrustado en la p
 Comenzamos en la pantalla de Inicio y podemos navegar según lo descrito en el sitemap.
 
 <img src="Principal.png">
+
 Pantalla principal.
 En ella el cliente puede ver las temáticas de los eventos publicados y, si ya tiene claro el establecimiento que quiere visitar, puede consultarlos directamente.
 Suponemos que en el logotipo se da un breve y conciso resumen de lo que trata este proyecto.

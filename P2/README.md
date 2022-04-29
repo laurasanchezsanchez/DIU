@@ -2,7 +2,7 @@
 
 ### Ideación 
 * Mapa de empatía
-Basado en la información de los usuarios de la práctica 1, hemos elaborado el siguiente mapa de empatía:
+Hemos elaborado el siguiente mapa de empatía:
 <img src="MapaEmpatia.png">
 
 ### PROPUESTA DE VALOR
@@ -52,10 +52,11 @@ No existe una vista de login ya que el proyecto a desarrollar es un microsite de
 En la siguiente tabla se detalla la información contenida en cada una de las secciones que contiene el proyecto, indicando la finalidad de ellas.
 
 
+
 Término | Significado     
 | ------------- | -------
   Principal  | Sección donde se ven todos los eventos a partir de unos filtros aplicados. En ella se pueden aplicar los filtros deseados.
-  Informacion  | Sección para consultar el fin de este proyecto y las políticas de privacidad.
+  Información del evento  | Sección para consultar toda la información del evento seleccionado.
   Comprar entrada  | Sección donde el cliente puede comprar una entrada de un evento publicado.
   Chatear con otros clientes  | Sección donde el cliente, una vez comprada la entrada del evento, puede chatear con los demás asistentes.
   Consultar asistentes  | Sección donde el cliente, una vez comprada la entrada del evento, puede consultar los demás asistentes.

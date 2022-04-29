@@ -20,24 +20,22 @@ El horario de las fiestas son 24 horas, por lo que el público será de todas la
 En este proyecto se pueden ver clientes de todas las edades y perfiles, pero normalmente será gente joven la interesada en esta idea.
 Definimos los siguientes perfiles:
     
-**Jóvenes** - Es el público mayoritario de nuestro proyecto, interesados en salir de fiesta. Por lo general, son personas entre 18-26 años.
+**Parejas** - Público que viene en pareja con todo tipo de planes (normalmente románticos), pueden ser de cualquier edad.
 
-**Parejas** - Público que viene en pareja con todo tipo de planes, pueden ser de cualquier edad.+
+**Grupos** - Público que viene en grupo con una relación amistosa, buscando planes para muchas personas.
 
-**Amigos** - Público que viene en grupo con una relación amistosa, buscando planes para muchas personas, como discotecas o baile.
-
-**Adultos** - Público de mayor edad que busca planes más relajados, como salones de baile, juegos de mesa y otros relacionados.
+**Adultos** - Público normalmente mayor de 40 años que busca planes más relajados, como salones de baile, juegos de mesa y otros relacionados.
 
 A continuación podemos ver la User Task Matrix creada a partir de los usuarios descritos anteriormente.
 
-| | Jóvenes | Parejas | Amigos | Adultos |
+| | Parejas | Grupos | Adultos |
 | -- | -- | -- | -- | -- |
-| Hacer y ver valoraciones | H | M | H | L |
-| Reservar una entrada en un negocio | H | H | H | H |
-| Realizar pagos a través de la app | H | H | H | L |
-| Buscar tipo de establecimiento | M | H | M | M |
-| Consultar las personas apuntadas al evento | H | H | H | L |
-| Chatear con las personas apuntadas al evento | H | L | H | M |
+| Hacer y ver valoraciones |  M | H | L |
+| Reservar una entrada en un negocio | H | H | H |
+| Realizar pagos a través de la app | H | H | L |
+| Buscar tipo de establecimiento | H | M | M |
+| Consultar las personas apuntadas al evento | H | H | L |
+| Chatear con las personas apuntadas al evento | L | H | M |
 
 
 
@@ -46,7 +44,8 @@ A continuación podemos ver la User Task Matrix creada a partir de los usuarios 
 * Sitemap 
 
 La siguiente imagen describe la navegación que el usuario podrá realizar dentro de la plataforma.
-No existe una vista de login ya que el proyecto a desarrollar es un microsite dentro de la plataforma existente de 4uHostel.
+No existe una vista de login ya que el proyecto a desarrollar es un microsite dentro de la plataforma existente de 4uHostel. Este proyecto está dirigido para los clientes del hostel que ya estaban registrados anteriormente. Los eventos se pueden compartir pero para comprar las entradas debe estar registrado; en caso contrario se redirige al usuario a una pestaña de login.
+
 <img src="Sitemap.png">
 
 * Labelling 
@@ -123,3 +122,11 @@ El cliente puede editar su información en esta pestaña
 
 ### Conclusiones  
 Concluímos que esta etapa ha servido para definir el producto que queremos desarrollar y es muy importante a la hora de planificar un proyecto, ya que esta es la base donde se apoyarán el resto de etapas. En esta etapa nos ponemos en la situación del cliente en todo momento y diseñamos el producto según sus necesidades.
+
+
+### Correcciones aplicadas
+- Cambio de una estructura del modelo demasiado jerárquica a una más adaptada a los deseos del cliente.
+- Añadida la funcionalidad de compartir un evento
+- Cambio de los nombres de eventos excesivamente específicos 
+- Unión en "task matrix" de amigos y jóvenes, obteniendo como resultado *grupos*
+- Ajuste del "empathy map" 

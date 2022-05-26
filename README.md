@@ -171,6 +171,7 @@ Hemos escogido la opción B ( LAYOUT Protopie ) para la realización del prototi
 
 En todas las pestañas existe una barra de navegación que permite acceder a las pestañas principales, además de un botón de retroceso para volver a la pestaña anterior.
 Pulsar en el logotipo de la aplicación enviará al usuario a la pantalla principal.
+Dentro de la carpeta P3 se documenta cada pestaña.
 
 https://cloud.protopie.io/p/8d977da933?touchHint=true&ui=true&scaleToFit=true&cursorType=touch&mockup=true&bgColor=%23F5F5F5&playSpeed=1&playerAppPopup=true 
 

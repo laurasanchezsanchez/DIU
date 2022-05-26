@@ -40,6 +40,50 @@ Hemos escogido la opción B ( LAYOUT Protopie ) para la realización del prototi
 En todas las pestañas existe una barra de navegación que permite acceder a las pestañas principales, además de un botón de retroceso para volver a la pestaña anterior.
 Pulsar en el logotipo de la aplicación enviará al usuario a la pantalla principal.
 
+Enlace al documento [PDF](prototipos.pdf).
+
+**Pantalla principal**
+En ella el cliente puede ver los eventos con unos filtros predeterminados (fecha = hoy).
+
+**Pestaña principal - filtros expandidos**
+En ella el cliente modificar los filtros que aparecen en la pestaña
+
+**Pestaña de un establecimiento seleccionado - evento**
+En ella el cliente puede ver la media de valoraciones que tiene por parte de los clientes por medio de “estrellitas”. 
+En esta pestaña se muestra la información del evento, ubicación y un teléfono de contacto.
+Si le convence puede hacer click en “Comprar entrada” y le llevará a la pestaña de compra.
+
+**Pestaña de valoraciones sobre el establecimiento**
+En ella el cliente puede ver todas las reseñas que otros clientes han dejado al establecimiento.
+
+**Pestaña de evento seleccionado - comprar entrada**
+En esta pestaña el cliente puede seleccionar el número de entradas que desea comprar.
+Existe un botón que le redirigirá a una plataforma externa de pasarela de pago.
+
+**Pestaña de “Mis entradas”**
+El cliente puede ver todas sus entradas compradas con información general de ellas.
+Además, a partir de una entrada puede chatear o ver a los asistentes al evento e incluso añadir una valoración al establecimiento.
+    Solo se podrá añadir una valoración una vez finalizado el evento.
+
+**Pestaña para dejar una reseña a un establecimiento**
+El cliente puede valorar del 1-5 mediante estrellitas y puede dejar un comentario en forma de texto.
+
+**Pestaña de “Chat de asistentes al evento”**
+Es una pestaña sencilla donde aparecen los mensajes enviados por los demás asistentes, donde el cliente también puede comunicarse.
+En ella, se ve claramente una fotografía de la persona que está hablando.
+
+**Pestaña de consulta de asistentes al evento**
+En esta pestaña el cliente puede ver todos los asistentes al evento.
+
+**Pestaña de “Mi perfil”**
+El cliente puede editar su información en esta pestaña
+
+**Pestaña de “Código QR”**
+En esta pestaña se muestra el código QR de la entrada para acceder al evento
+
+
+
+
 https://cloud.protopie.io/p/8d977da933?touchHint=true&ui=true&scaleToFit=true&cursorType=touch&mockup=true&bgColor=%23F5F5F5&playSpeed=1&playerAppPopup=true 
 
 ## Documentación: Publicación del Case Study

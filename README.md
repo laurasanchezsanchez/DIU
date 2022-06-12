@@ -191,9 +191,8 @@ Resumen del diseño de nuestra práctica: el cliente siempre dispone de una barr
 
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
-
-
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+El proyecto asignado  se llama Board 4U, y permite a los clientes de 4uHostel ver actividades, ofertas y experiencias de viajeros y turistas alrededor de Granada.
+El repositorio de Github se encuentra en https://github.com/vdeq79/DIU .
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
@@ -204,10 +203,13 @@ Resumen del diseño de nuestra práctica: el cliente siempre dispone de una barr
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Sofía  | M / 22   | Estudiante  | Alta       | Tipo: 2
+Actividad: 3 
+Emoción: 3
+ | Web.       | A 
+| Raúl  | H / 54   | Mecánico  | Baja       | Timido       | Web        | A 
+| María  | M / 18   | Estudiante     | Media        | Emocional    | móvil      | B 
+| Manuel  | H / 39   | Administrativo  | Alta       | Racional     | Web        | B 
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
@@ -229,21 +231,6 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 >>> Valoración personal 
 
-
->>> ## Paso 5. Evaluación de Accesibilidad  (no necesaria)
-
-
->>> ![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report 
->>>> ----
-
->>> Indica qué pretendes evaluar (de accesibilidad) sobre qué APP y qué resultados has obtenido 
-
->>> 5.a) Evaluación de la Accesibilidad (con simuladores o verificación de WACG) 
->>> 5.b) Uso de simuladores de accesibilidad 
-
->>> (uso de tabla de datos, indicar herramientas usadas) 
-
->>> 5.c Breve resumen del estudio de accesibilidad (de práctica 1) y puntos fuertes y de mejora de los criterios de accesibilidad de tu diseño propuesto en Práctica 4.
 
 
 

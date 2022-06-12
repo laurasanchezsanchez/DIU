@@ -223,7 +223,7 @@ Manuel: Es administrativo y usa el ordenador diariamente. Está familiarizado co
 http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
 Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
 
-<img src="P4/Cuestionario_SUS.PNG">
+<img src="P4/Cuestionario.PNG">
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report

@@ -1,13 +1,13 @@
 # DIU - Practica 4, entregables
 
 
-* 4.a Caso asignado
+## 4.a Caso asignado
 ----
 El proyecto asignado  se llama Board 4U, y permite a los clientes de 4uHostel ver actividades, ofertas y experiencias de viajeros y turistas alrededor de Granada.
 El repositorio de Github se encuentra en https://github.com/vdeq79/DIU .
 
 
-* 4.b User Testing
+## 4.b User Testing
 ----
 
 >>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
@@ -28,7 +28,7 @@ María: Es estudiante de artes y no usa el teléfono tanto como sus amigas. Es u
 
 Manuel: Es administrativo y usa el ordenador diariamente. Está familiarizado con las nuevas tecnologías y es muy consciente de la falta de accesibilidad que tienen algunas webs, ya que su hermana tiene una discapacidad visual.
 
-* 4.c Cuestionario SUS
+## 4.c Cuestionario SUS
 ----
 
 >>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
@@ -39,7 +39,7 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 <img src="./Cuestionario2.PNG">
 
 
-* 4.d Usability Report
+## 4.d Usability Report
 ----
 
 >> Añadir report de usabilidad para práctica B (la de los compañeros)

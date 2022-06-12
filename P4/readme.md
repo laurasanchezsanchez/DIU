@@ -36,7 +36,7 @@ http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-t
 Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
 
 
-<img src="Cuestionario2.PNG">
+<img src="./Cuestionario2.PNG">
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
@@ -51,7 +51,7 @@ Se puede acceder al siguiente documento para ver el Usability Report
 
 La aplicación sigue un sitemap sencillo y predecible, además de un uso de colores aceptable, parecido a Ryanair. Cumple perfectamente con su función pero tiene algunos fallos en los formularios, como el idioma que se emplea, por ejemplo vemos que la información siguiente está en inglés, aunque el idioma de la web es español:
 
-<img src="Formulario.PNG">
+<img src="./Formulario.PNG">
 
 Se valora positivamente el feedback que se le da al cliente cuando éste rellena un formulario, aunque este feedback aparezca durante muy poco tiempo y en inglés.
 
